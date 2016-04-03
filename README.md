@@ -2,3 +2,5 @@
 
 my second git.
 commit
+test
+master
