@@ -1,6 +1,3 @@
 # hello-world
 
-my second git.
-commit
-test
-commit from second branch
+sua cua second-branch
